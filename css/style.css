@@ -79,3 +79,34 @@ main li{
     font-size: 25px;
 
 }
+
+
+
+main table{
+    
+    margin-top: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 25px;
+    border: solid white 3px;
+    border-collapse: collapse;
+    
+}
+
+th{
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 10px;
+    background-color: #4EA0FF;
+    color: white;
+    white-space:nowrap;
+}
+
+.table-row{
+    background-color:#B1E4F2 ;
+}
+
+#lorem{
+    
+    text-align: left;
+}
