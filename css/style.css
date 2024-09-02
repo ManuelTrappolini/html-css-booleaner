@@ -4,6 +4,10 @@
     padding 0;
 }
 
+header{
+    
+}
+
 
 #Top-title{
     background-image: url(../img/pattern.png);
@@ -18,7 +22,12 @@
 
 header h1{
     text-align: center;
+    text-align: justify;
     margin: 0%;
+    margin-top: 20px;
+    font-size: 70px;
+    margin-left: 10%;
+    margin-right: 20%;
     
 }
 
@@ -34,7 +43,19 @@ header span{
     color:  #43B6E9;  
 }
 
-img{
-    
+.Tim{
+    margin-left: 10%;
+
 }
 
+#Tim1{
+    width: 60%;
+}
+
+#Tim2{
+    width: 50%;
+}
+
+header p{
+    margin-left: 10%;
+}
