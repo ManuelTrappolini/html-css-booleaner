@@ -59,3 +59,23 @@ header span{
 header p{
     margin-left: 10%;
 }
+
+main p{
+    margin-top: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 25px;
+}
+
+main span{
+    background-color: #FFFF00;
+    margin-top: 20px;
+}
+
+main li{
+    margin-top: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 25px;
+
+}
