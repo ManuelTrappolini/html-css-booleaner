@@ -75,7 +75,6 @@ main li{
 
 
 main table{
-    
     margin-top: 20px;
     margin-left: 10%;
     margin-right: 10%;
@@ -88,15 +87,17 @@ th{
     background-color: #4EA0FF;
     color: white;
     white-space:nowrap;
-    padding: 20px;
+    padding: 0px;
+    padding-left: 0;
+    text-align: left;
 }
 
 .table-row{
-    background-color:#B1E4F2 ;
+    background-color:#B1E4F2;
 }
 
 #lorem{    
-    text-align: left;
+    width: 50%;
 }
 
 footer h3{
